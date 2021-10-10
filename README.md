@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nivlake
-- 👀 I’m interested in API BOT Development and random shit code
+- 👀 I’m interested in API BOT Development and random shit codes
 - 🌱 I’m currently majoring in Informatics at Diponegoro University
 
 <!---
