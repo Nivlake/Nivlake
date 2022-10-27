@@ -21,3 +21,5 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in API BOT Development and random shit codes
 - 🌱 I’m currently majoring in Informatics at Diponegoro University
 --->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nivlake&theme=radical)
