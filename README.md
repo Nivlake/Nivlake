@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/banners/345493522599641090/a_77ed78318ee2b19bd7f0e1969e5b0511.gif?size=600" alt="LAIN" width="800">
- </div>
+ <img src="https://cdn.discordapp.com/banners/345493522599641090/a_77ed78318ee2b19bd7f0e1969e5b0511.gif?size=600" alt="LAIN" width="800">
+</div>
 
 <h1 align="center">Hi 👋, I'm Nivlake</h1>
 <h3 align="center">Developer from Indonesia</h3>
