@@ -9,8 +9,12 @@
 
 - 👀 I’m interested in API BOT Development and random shit codes 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nivlake&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivlake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<a href="https://github.com/Nivlake">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nivlake&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nivlake&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -51,3 +55,6 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in API BOT Development and random shit codes
 - 🌱 I’m currently majoring in Informatics at Diponegoro University
 --->
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nivlake&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivlake&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
