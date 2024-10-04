@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning Mobile App Development 
 
-- 👀 I’m interested in API BOT Development and random shit codes 
-
 <h3 align="left">Stats:</h3>
 <p align="left">
 <a href="https://github.com/Nivlake">
@@ -57,6 +55,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m Nivlake
 - 👀 I’m interested in API BOT Development and random shit codes
 - 🌱 I’m currently majoring in Informatics at Diponegoro University
+- 👀 I’m interested in API BOT Development and random shit codes 
 --->
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nivlake&theme=radical)
